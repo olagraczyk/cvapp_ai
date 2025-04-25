@@ -1,0 +1,216 @@
+Linkedin: https://www.linkedin.com/in/ola-graczyk/
+ 
+1.      Work experience
+1.1   UX/UI Designer
+Time: October 2024  - November 2024 ( 2 months )
+Company: DynamicoAI (Now Firemind)
+About the company: DynamicoAI owned a product called Enhanced IQ. It is an enterprise-grade platform that makes it simple to scale generative AI across the organisation. The platform can be integrated with the most popular databases and systems and sensitive data is protected. It can be used by employees on all levels for example to search company sharepoint,  retrieve data, write structured prompts to make working faster.
+About my role:
+As part of my role at DynamicoAI, I was responsible for evaluating the Enhanced IQ platform with a fresh perspective, identifying potential issues, and suggesting improvements. My key responsibilities included:
+-        Conducted a thorough review of the platform, documenting all observations, usability concerns, and bugs.
+-        Compiled findings into a structured report to enhance platform performance and user experience.
+-        Designed suggestions for UI modifications using Figma, including button layouts and page structures.
+-        Proposed improvements to the platform’s usability based on my analysis.
+-        Reviewed prompt structures created by previous authors to identify errors, ambiguities, and inefficiencies.
+-        Simplified overly complex prompts and ensured clarity and conciseness.
+-        Leveraged my knowledge of Large Language Models (LLMs) to implement best practices for prompt engineering within the company.
+-        Created comprehensive documentation detailing my findings and proposed changes.
+-        Used Slack as the primary communication tool to collaborate with the team.
+ 
+1.2. Machine Learning Engineer with Python
+Time: October 2023  - September 2024
+Company: Fourteen33
+About the company: Fourteen33 provides AI/ML, cloud and marketplace services. Partners with Google
+About my role: Machine Learning Engineer with Python
+-        Contributed to the Gemini Cookbook by creating eight comprehensive notebooks and two Gemini-powered Streamlit applications showcasing various Gemini API functionalities. This involved researching, developing, testing, and enhancing each notebook to ensure accuracy and usability.
+-        Tested and improved all notebooks and applications submitted to the Gemini Cookbook by the team, ensuring their quality and consistency. This dedication to quality enabled the team to maintain high standards and deliver reliable, valuable resources for Gemini users.
+-        I brainstormed and presented ten innovative application ideas for the Gemini Cookbook, showcasing my creativity and deep understanding of Gemini's capabilities. My insights and proposed use cases demonstrated my strong commitment to exploring and maximizing Gemini's potential.
+-        Led research and development efforts for a client project focusing on Named Entity Recognition (NER)
+-        Successfully completed the Machine Learning Engineer Certification, demonstrating a strong foundation in ML principles and practical applications.
+-        Developed an internal application for document search using Vertex AI, enhancing team
+-        efficiency and productivity by enabling fast and accurate document retrieval.
+-        Notebooks with the use of Gemini that I have developed: Book Translation, Entity Extraction, RAG evaluation with LlamaIndex, Tagging and captioning images, Working with Charts, Graps and Slidedecks, Analyze the video Classification, Wolfram Alpha LLM API integration with Gemini
+1.3 IT Recruiter internship
+Time: August 2021 – September 2021 (summer internship)
+Company: Bee Talents
+About the company: Bee Talents recruits IT specialists
+About my role:
+-        Created an initial draft for CEO of an EVP (Employee Value Proposition) Book that was used by other recruiters to create Candidate Experience
+-        Conducted phone screenings with over 30 candidates, enhancing the candidate experience and sourcing new talent for approximately 10 different positions using LinkedIn Recruiter and Lever, resulting in over 500 connections.
+-        Posted weekly job openings on work social media to attract qualified candidates.
+-        Developed and evaluated a form to improve communication with customers during kickoff meetings by gathering employee feedback on their needs.
+ 
+1.4. English Tutor
+Time: 2017 – September 2023
+Company:  no company, I was conducting private lessons
+About the company: none
+About my role: English Tutor
+-        Holds a GED High School Diploma and C1-level English proficiency.
+-        Hired by “Fundacja Kreatywna Rodzina” as an English summer camp animator in 2023.
+-        Conducting lessons for over 10 hours per week. I have already taught more than 15 children and adults.
+-        Leading “English Weekends” – English workshops held every month for a group of 15 homeschooled children.
+-        Using modern teaching techniques such as Montessori tools, offering lessons both in-person and online, and creating my own didactic materials for lessons and exam preparations.
+-        Preparing students for tests and final-year exams (for homeschooled children).
+1.5. Quality controller
+Time: September 2023
+Company: AGC Poland sp. zo.o
+About the company: An external firm specializing in quality control of critical components for other companies.
+About the role:
+-        Conducting quality control of critical components through meticulous inspection under a magnifying glass, identifying and categorizing potential defects, and forwarding them to a specialist.
+-        Working on-site in Germany.
+ 
+2.      Education
+2.1. SGH Warsaw School of Economics
+2.1.1.      Masters: Advanced Analytics – Big Data
+Time: September 2024  - Present
+Student Organizations: Rowing at AZS
+ 
+2.1.2.      Courses Taken
+-        R Programming in R Studio
+-        Python Programming
+-        Big Data Programming in Databricks
+-        Cloud Computing in AWS
+-        Credit Scoring – Business Process Automation (Python and SAS)
+-        Data Mining (Python and SAS)
+-        Databases in Oracle APEX
+-        Querying, Data Presentation, Data Visualization and Reporting in R and Excel
+-        Zastosowanie Business Intelligence w analizach sektora finansowego 234390-S
+-        Technology start-up
+-        C++
+-        Non-classical optimization methods
+-        Building software for a database PL/SQL in Oracle APEX
+-        Real-time Analysis with Kafka
+-        Categorical Data Analysis in SAS
+-        Duration Analysis in SAS
+ 
+ 
+ 
+2.2.    Adam Mickiewicz University in Poznań (Poland)
+2.2.1.  	 Batchelor: Cognitive Science
+Time: September 2021 – July 2024
+Thesis was about:        	Conducted research and experiment with 40 people for my bachelor’s thesis on the interplay between human cognition and AI, investigating how AI can augment learning and cognitive functions.
+Abstract: This work examines the impact of using artificial intelligence (AI) in the learning
+process. The aim of the work is to compare the effectiveness of learning information contained
+in a text using traditional methods and equivalent methods using artificial intelligence. An
+empirical study was conducted with 40 students aged 15-22, who were divided into two groups:
+self-chosen methods of learning and learning with additional materials created by ChatGPT.
+The group studying with ChatGPT materials used generated notes, summaries, explanations,
+test questions and flashcards. The study results did not show statistically significant differences
+between learning effectiveness in both groups. Neither the use of materials generated by
+ChatGPT, nor the learning methods used had a significant impact on knowledge test results.
+However, it was noticed that longer learning time was associated with better results in the time-
+spaced knowledge test. This research suggests that ChatGPT and other AI tools may not yet be
+as effective in supporting learning as expected. The results require further research in a larger
+and more diverse sample. It is also necessary to further develop AI tools to minimize the risk
+of hallucinations and plagiarism. The work indicates the potential benefits of using AI to
+generate learning aids that can increase motivation and facilitate preparation for learning.
+ 
+2.2.2.      Courses Taken
+-            Methodology and Statistics
+-            Algorithmics
+-            Python Programming
+-            Cognitive Processes
+-            Quantitative data analysis
+-            Data Analysis and Visualization
+-            Anatomy of the nervous system
+-            Human-Computer communication (programming)
+-            Logics 1 and 2 and Non-classical logics
+-            Psychometry
+-            General Linguistics
+-            Neuroscience
+-            Artificial Intelligence and Artificial Life (programming)
+-            Artificial Intelligence Methods (programming)
+-            Usability (UX/ UI and Research related class)
+ 
+2.3.    Exchange Year in USA
+Time: 2019-2020
+Participated in a high school exchange program through Young Life, where I was matched with a host family in the U.S. Adapted quickly to the American educational system and culture, joining the school's cross-country team and earning a school varsity letter. To further my education, I voluntarily took and passed the GED exam in the Colorado State. Beyond academics, I actively participated in the local community, serving as the singing director for a middle school theater group's production of "Fiddler on the Roof."
+ 
+3.      Volunteering
+3.1. Leader of the Girl Scouts Team in ZHR
+Time: September 2017 – January 2025
+-            Committed over 15 hours per month leading a group of 10+ girls aged 15 to 20, organizing camps including a complex international cycling expedition to contribute to the Polish Community Abroad, where we donated books to the schools and engaged in cultural exchanges.
+-            Worked with external organizations such as the police, fire department, and Sanitary and Epidemiological Station to ensure safety compliance during camps and events. Collaborated with school directors to organize monthly meetings.
+-            Successfully managed crisis situations, including containing a group illness, ensuring health and safety of all participants.
+-            Managed a team budget of up to 20,000 PLN, maintained financial records, and prepared grant applications for funding from The Education O􀆯ice.
+-            Led individualized development for each scout, focusing on personal growth and achievement of scouting ranks, with direct mentorship and guidance for every member.
+ 
+3.2. First Aid course
+Time: August 2022
+-            Initiated and organized a 3-hour, volunteer-led first aid course for local tourists in Mazury, taking full responsibility for finding a suitable venue and negotiating with property owners. Over 50 people participated.
+-            Coordinated logistics, including venue setup and preparation, ensuring all arrangements met the needs of both volunteers and participants. Led promotional efforts, developing advertisements to attract participants and raise awareness of the course.
+-            Successfully ensured smooth execution of the event, providing essential training to the local community during the summer tourist season.
+ 
+3.3. Humanitarian Volunteer | War in Ukraine Relief Efforts
+Time: February 2022 – July 2022
+-            Coordinated Refugee Assistance: Played a critical role in supporting displaced individuals by assisting with the transportation of refugees from train stations to information centers, ensuring their safety and providing a compassionate first point of contact.
+-            Logistical Support for Donations: Efficiently managed and sorted donated goods, including clothing, medical supplies, and essential items, to ensure they reached those in need promptly and were distributed effectively across various aid centers.
+-            Collaborative Efforts: Worked alongside local authorities, international organizations, and fellow volunteers to streamline the aid process, contributing to a more organized and responsive relief operation amidst a rapidly evolving crisis.
+ 
+4.      Hackathons
+4.1.  Hackathon Winner at WPiK UAM (2023)
+Github code of the project: https://github.com/tykfikk/daj-DUHA/blob/main/DUHA8
+- Led a team of four students to develop a Python-based application using OpenAI API, earning first place in a Hackathon.
+- Worked under pressure for 20 hours, competing against several teams on the university campus.
+- Developed an application that leverages my cognitive science knowledge on the cognitive limitations of individuals under the influence of intoxicating substances. The app is designed with a user interface that quickly assesses a person's condition and provides the necessary assistance. Depending on the situation, it offers guidance on calming techniques, such as meditation, or, in severe cases, prompts calling emergency services.
+- My responsibilities as a team leader included team formation and task delegation but also provided technical support for members that were not familiar with LLM APIs.
+- As a leader, I presented our App to the Dean and a jury consisting of professors.
+ 
+4.2.  Brainhack Hackathon – Warsaw University (March 29-30, 2025)
+I attended Brainhack, a neuro-related hackathon, where I worked in a team of six to develop a minimum viable product for a mobile app designed for patients receiving psychiatric care.
+Project Overview
+Tools Used: Figma (UI/UX), Flutter Flow (app development), Firebase (database).
+Features:
+Symptom & medication tracking.
+Export Data feature: Generates a processed PDF report with numerical data and charts for doctors.
+Insightful but non-overwhelming symptom trends.
+Motivational calendar for medication adherence.
+Prescription photo storage.
+Customization & medication reminders.
+Key Takeaways
+-            Learned Flutter Flow for mobile development.
+-            Applied database knowledge in a real-world scenario.
+-            Gained UX/UI experience.
+-            Understood medical data requirements from a last year medical school student in our team.
+ 
+“””
+Had an incredible weekend at Brainhack at Warsaw University! 🧠💡
+I immersed myself in a community of great minds—people passionate about brain science, coding, and innovation, all coming from diverse backgrounds. Together, in a team of six, we built a mobile app for psychiatric care patients—from Figma prototypes to a working Flutter Flow app connected to Firebase.
+This hackathon was a game-changer for me—I learned a new tool, applied my database knowledge, and gained UX/UI experience while working alongside a future doctor who provided key medical insights.
+#BrainHack #Hackathon #Neuroscience #MentalHealth #HealthcareInnovation
+“””
+5.      Projects
+5.1. Markov-Chain-Text-Generation-BLEU-Evaluation (Python and Databricks)
+https://github.com/olagraczyk/Markov-Chain-Text-Generation-BLEU-Evaluation
+This project explores text generation using variations of Markov Chains and evaluates text quality using BLEU scores.
+5.2. Coffee-Point-Data-Analysis-Automation-in-Python (Python)
+https://github.com/olagraczyk/Coffee-Point-Data-Analysis-Automation-in-Python
+This project focuses on ABC and FRM analysis for Coffee Point data, integrating various automation applications using Python. The analysis covers sales data, product inventory, and order popularity, aiming to enhance data management and operational efficiency.
+5.3. Misleading Graph Fix (Python)
+https://github.com/olagraczyk/Misleading-Graph
+This project demonstrates how misleading graphs can manipulate public perception and provides a corrected version.
+5.4. Data Report (R)
+https://github.com/olagraczyk/R-Data-Querrying-and-Visualization
+This project focuses on data querying and visualization using R. I am working with a movie dataset from Kaggle, performing data analysis, cleaning, and visualizing key insights.
+5.5. Hackathon Winning App Prototype (OpenAI API and Python)
+https://github.com/tykfikk/daj-DUHA/tree/main
+5.6. Hackathon Brainhack App Prototype (FlutterFlow and Firebase)
+https://app.flutterflow.io/project/mental-health-app-hrxz48
+ 
+5.7. Data Mining Student Dropout
+Creation and evaluation of two machine learning models, Logistic Regression and Neural Network, to predict student dropout.
+https://github.com/olagraczyk/Data-Mining-Student-Dropout
+ 
+6.      Hobby
+-        Rowing ( I am a member at university club AZS )
+-        Knitting
+-        Hiking
+-        Sailing
+ 
+7.      Languages
+-        English at C1
+-        Spanish at A2
+ 
+ 
+ 
+

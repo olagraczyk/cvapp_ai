@@ -1,0 +1,33 @@
+"""
+From the job posting below, extract the following:
+
+1. **Title of a job**
+
+2. **Role Summary Sentences**
+   Provide 1-3 concise summary sentences that capture the essence of the role.
+
+3. **Seniority Level and Years of Experience**
+   What is the likely seniority of this role? (e.g., Entry-level, Mid-level, Senior, Director)
+   How much experience is required, and in what areas?
+
+4. **Tech stack**
+List what technical or specialized skills are required (e.g., software, tools, methodologies, certifications)
+
+5. **Top Soft Skills / Attributes**
+   List the key personal qualities, interpersonal skills, or mindset indicators.
+
+6. **Nice-to-Have Skills or Preferences**  
+   Identify any skills, experiences, or qualifications that are listed as preferred but not strictly required.
+
+7. **ATS Optimization Keywords**
+   List keywords and phrases that are likely to be important for Applicant Tracking Systems (job titles, tools, repeated terms, outcomes, etc.).
+
+8. **Education Requirements**
+   Any degrees or fields of study mentioned?
+
+9. **Location / Remote Work**
+   Mention if the job includes location requirements or remote flexibility.
+
+Job Description:
+{text}
+"""
