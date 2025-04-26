@@ -1,7 +1,9 @@
 # 📄 CVApp AI — Google Docs Reader (Part of a Bigger Project)
 
 This is a foundational component of a larger AI-powered application that assists in generating customized CVs based on personal experience and job descriptions.  
-Currently, this part focuses on **securely reading content from a private Google Doc**.
+Currently, this part focuses on:
+- **Securely reading content from a private Google Doc**
+- **Scraping job descriptions from external job boards**
 
 > This is still **in development** and only covers experience extraction for now.
 
@@ -13,7 +15,8 @@ Currently, this part focuses on **securely reading content from a private Google
 - How to authenticate using OAuth (with refresh tokens)
 - How to manage secrets securely using `.env` files
 - How to structure a clean project with good practices (like `.gitignore` and token caching)
-
+- How to scrape websites using `requests` and `BeautifulSoup`
+- How to extract relevant job offer content and save it for later use
 ---
 
 ## 🚀 Getting Started
@@ -66,7 +69,17 @@ In terminal
 pip install -r requirements.txt
 ```
 
-### 5. 🛠 To Be Continued...
+---
+### Web Scraping Job Descriptions
+You can run  `web_scraper.py` to extract the main content from a job posting page.
+
+Currently:
+- The script takes a hardcoded URL (will be updated for dynamic input later in a Streamlit App).
+- It saves the job title and main content into job_description.txt.
+
+In the Jupyter notebook prototype, you can enter a job link as input and run the scraping function. This will update the job description for the CV logic later.
+
+### 🛠 To Be Continued...
 
 ----
 
