@@ -1,4 +1,4 @@
-# 📄 CVApp AI — Google Docs Reader (Part of a Bigger Project)
+# 📄 CVApp AI
 
 This is a foundational component of a larger AI-powered application that assists in generating customized CVs based on personal experience and job descriptions.  
 Currently, this part focuses on:

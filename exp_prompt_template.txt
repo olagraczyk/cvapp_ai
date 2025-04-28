@@ -1,7 +1,0 @@
-"""
-Job offer: {job_offer}
-
-Based on a given job offer, rewrite only relevant information from experience. Do not change the text.
-Experience: {experience}
-
-"""

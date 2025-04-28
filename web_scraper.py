@@ -16,10 +16,9 @@ def scrape(url: str) -> str:
     
     if main_div:
         content = main_div.get_text(separator='\n', strip=True)
-        full_text = f"JOB TITLE: {title}\n\n{content}"
-        with open('job_description.txt', 'w', encoding='utf-8') as f:
-            f.write(full_text)
-        return full_text
+        full_text = f"{title}\n\n{content}"
+    
+        return title, full_text
     else:
         print("No content found")
 
