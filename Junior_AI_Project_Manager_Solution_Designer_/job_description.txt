@@ -1,0 +1,25 @@
+1. **Title of a job:** Junior AI Project Manager (Solution Designer)
+
+
+2. **Role Summary Sentences:** This role involves designing, developing, and implementing AI solutions, with a focus on multi-agent systems and intelligent assistants.  The Project Manager will collaborate with development teams to integrate these solutions into web systems and optimize their performance, bridging the gap between technical AI aspects and business needs.  This involves testing, refining AI models, and identifying new application opportunities.
+
+
+3. **Seniority Level and Years of Experience:** Junior level, with a minimum of 2 years of experience in AI project management or software development.
+
+
+4. **Tech stack:** LLM, AI, RPA/IPaaS (nice to have), JavaScript/Python (nice to have).  Requires understanding of AI model architecture, integrations, APIs, databases, prompt engineering, and optimization of language models.
+
+
+5. **Top Soft Skills / Attributes:**  Problem-solving skills, independent work ethic, effective communication, collaboration, ability to bridge technical and business teams.
+
+
+6. **Nice-to-Have Skills or Preferences:** Experience building chatbots and AI assistants, familiarity with RPA/iPaaS systems (UiPath, Automation Anywhere, N8N, Zapier, etc.), and basic programming knowledge (Python, JavaScript).
+
+
+7. **ATS Optimization Keywords:**  AI, LLM, Project Manager, Solution Designer,  AI Project Management, Software Development,  Multi-agent Systems, Intelligent Assistants, Chatbots, RPA, iPaaS,  Python, JavaScript, API, Databases,  Prompt Engineering,  Model Optimization,  Web Systems Integration.
+
+
+8. **Education Requirements:**  Not explicitly stated.
+
+
+9. **Location / Remote Work:** Hybrid, Warszawa, Poland.
